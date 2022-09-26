@@ -32,5 +32,6 @@ public class AddressBook {
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(0);
         //add comments as a change
+        //add some text to the file and commit your changes
     }
 }
